@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\Luhn_Algorithm\Luhn_Algorithm\bin\Debug\Luhn_Algorithm.exe.config
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\Luhn_Algorithm\Luhn_Algorithm\bin\Debug\Luhn_Algorithm.exe
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\Luhn_Algorithm\Luhn_Algorithm\bin\Debug\Luhn_Algorithm.pdb
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\Luhn_Algorithm\Luhn_Algorithm\obj\Debug\Luhn_Algorithm.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\Luhn_Algorithm\Luhn_Algorithm\obj\Debug\Luhn_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\Luhn_Algorithm\Luhn_Algorithm\obj\Debug\Luhn_Algorithm.exe
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\Luhn_Algorithm\Luhn_Algorithm\obj\Debug\Luhn_Algorithm.pdb
