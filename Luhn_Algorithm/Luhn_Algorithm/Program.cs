@@ -41,6 +41,10 @@ namespace Luhn_Algorithm
                 if (posizionePari)
                 {
                     num *= 2;
+                    if(num>9)
+                    {
+                        num-=9;
+                    }
                 }
                 somma += num;
                 posizionePari = !posizionePari;
